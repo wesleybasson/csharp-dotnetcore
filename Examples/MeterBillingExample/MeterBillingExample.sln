@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeterBillingExample", "MeterBillingExample\MeterBillingExample.csproj", "{8CE23630-4CCD-46A5-AA40-A1EC0C22D641}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CE23630-4CCD-46A5-AA40-A1EC0C22D641}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CE23630-4CCD-46A5-AA40-A1EC0C22D641}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CE23630-4CCD-46A5-AA40-A1EC0C22D641}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CE23630-4CCD-46A5-AA40-A1EC0C22D641}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C451795-F9BB-4111-BF2A-2B054C5DA8E5}
+	EndGlobalSection
+EndGlobal
